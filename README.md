@@ -1,2 +1,2 @@
 # python-for-machine-learning
-Guided codes of Global AI Hub course Python for Machine learning
+Guided tutorial codes and project codes of Global AI Hub Python Bootcamp course 'Python for Machine learning'
